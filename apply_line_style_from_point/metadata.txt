@@ -1,0 +1,9 @@
+[general]
+name=ApplyLineStyleFromPoint
+description=포인트 레이어의 색상을 선 레이어에 적용하는 플러그인
+version=1.0
+qgisMinimumVersion=3.10
+author=Hyunjae Chung
+email=wjdguswo1234@gmail.com
+category=Vector
+
